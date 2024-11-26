@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Listenelement
+comment1.params=
+comment1.target=int\ getAnzahl()
+comment2.params=neuerInhalt
+comment2.target=Listenelement\ hintenEinfuegen(Datenelement)
+comment3.params=
+comment3.target=Listenelement\ getNext()
+comment4.params=naechsterKnoten
+comment4.target=void\ setNext(Listenelement)
+comment5.params=
+comment5.target=Datenelement\ getInhalt()
+comment6.params=
+comment6.target=void\ informationAusgeben()
+numComments=7

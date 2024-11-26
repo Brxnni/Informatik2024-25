@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Benutzer()
+comment1.target=void\ fuelleListe()
+comment2.params=dateiName\ anzahl
+comment2.target=void\ neuerAuftrag(String,\ int)
+comment3.target=void\ ausdruck()
+comment4.target=void\ status()
+comment5.target=void\ wievieleDa()
+comment6.target=void\ druckerWarteschlangeAusgeben()
+numComments=7

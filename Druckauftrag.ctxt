@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=neuername
+comment0.target=Druckauftrag(String)
+comment1.params=neuername\ neueanzahl
+comment1.target=Druckauftrag(String,\ int)
+comment2.params=neuerName
+comment2.target=void\ setName(String)
+comment3.target=String\ getName()
+comment4.params=neueanzahl
+comment4.target=void\ setAnzahl(int)
+comment5.target=int\ getAnzahl()
+comment6.target=void\ informationAusgeben()
+numComments=7
